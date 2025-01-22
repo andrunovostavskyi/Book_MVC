@@ -1,0 +1,40 @@
+﻿@page
+@model Bulky_Razor_Pages_.Pages.Category.EditModel
+
+<form method="post">
+    <input asp-for="CategoryForUpdate.Id" hidden />
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary">Edit Category</h2>
+        </div>
+    </div>
+    <div asp-validation-summary="ModelOnly"></div>
+    <div class="mb-3 row p-1">
+        <label asp-for="CategoryForUpdate.Name" class="p-0"></label>
+        <input asp-for="CategoryForUpdate.Name" class="form-control" />
+        <span asp-validation-for="CategoryForUpdate.Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3 row p-1">
+        <label asp-for="CategoryForUpdate.DisplayOrder" class="p-0"></label>
+        <input asp-for="CategoryForUpdate.DisplayOrder" class="form-control" />
+        <span asp-validation-for="CategoryForUpdate.DisplayOrder" class="text-danger"></span>
+    </div>
+
+    <div class="row">
+        <div class="col-6 col-md-3">
+            <button type="submit" class="btn btn-primary form-control">Update </button>
+        </div>
+        <div class="col-6 col-md-3">
+            <a asp-page="/Category/Index" class="btn btn-outline-secondary border form-control">
+                Back to List
+            </a>
+        </div>
+    </div>
+</form>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

@@ -1,0 +1,357 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ASP(MVC)_bulky.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ASP(MVC)_bulky.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\images\\products\\product-2\\4048809b-44ff-46b9-aab9-b037606eb290.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\4048809b-44ff-46b9-aab9-b037606eb290.webp"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\images\\products\\product-2\\4bda8259-1a85-4926-8007-13c44d1b99e6.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\4bda8259-1a85-4926-8007-13c44d1b99e6.jfif"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\images\\products\\product-37\\05d5050e-b30d-4740-8afc-8b9664128052.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\product-37\\05d5050e-b30d-4740-8afc-8b9664128052.jfif"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\images\\products\\product-37\\0f6c27bd-d971-4948-90ae-1dcfe61b82a4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-37\\0f6c27bd-d971-4948-90ae-1dcfe61b82a4.jpg"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\images\\products\\product-37\\8747a385-5fb9-4c3e-9c07-7bb8f489207c.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-37\\8747a385-5fb9-4c3e-9c07-7bb8f489207c.jpg"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\images\\products\\product-37\\93cdf0da-0d85-49c5-a280-1a2a71346088.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\product-37\\93cdf0da-0d85-49c5-a280-1a2a71346088.jfif"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\images\\products\\product-37\\db4318d6-5fbd-4ca1-a309-b47a3063bb48.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\product-37\\db4318d6-5fbd-4ca1-a309-b47a3063bb48.jfif"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\images\\products\\product-37\\fcb66d2c-2cd3-4213-850d-6b038081868a.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\product-37\\fcb66d2c-2cd3-4213-850d-6b038081868a.jfif"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\images\\products\\product-38\\7e0c80dc-dcbd-453f-8b0b-5421497d5832.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-38\\7e0c80dc-dcbd-453f-8b0b-5421497d5832.jpg"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\images\\products\\product-38\\8f708058-f08b-481b-9146-45b972191ae9.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\product-38\\8f708058-f08b-481b-9146-45b972191ae9.jfif"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\images\\products\\product-39\\2be4adce-cbe0-4c3b-99ea-a76553d247a8.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\product-39\\2be4adce-cbe0-4c3b-99ea-a76553d247a8.jpeg"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\images\\products\\product-39\\48dc1060-a46d-4c75-a858-dae140985491.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\product-39\\48dc1060-a46d-4c75-a858-dae140985491.jfif"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\images\\products\\product-39\\78b9f536-d09f-4fa3-a4e8-a7d4e292d98e.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\product-39\\78b9f536-d09f-4fa3-a4e8-a7d4e292d98e.jfif"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\images\\products\\product-39\\988960ba-23c8-49a6-89b3-178217c55d33.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\product-39\\988960ba-23c8-49a6-89b3-178217c55d33.jfif"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\images\\products\\product-3\\04da337c-a12d-466d-877d-d8173b798386.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\04da337c-a12d-466d-877d-d8173b798386.jfif"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\images\\products\\product-3\\350bf383-e1fe-4905-a775-a6a5b6593df1.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\350bf383-e1fe-4905-a775-a6a5b6593df1.jfif"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\images\\products\\product-40\\0aac895a-54bd-41d4-bf58-a0a02cf3cf94.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\product-40\\0aac895a-54bd-41d4-bf58-a0a02cf3cf94.jfif"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\images\\products\\product-40\\9d7b3569-1964-447a-a4ab-4ffe4dc90687.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\product-40\\9d7b3569-1964-447a-a4ab-4ffe4dc90687.jfif"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\images\\success.png",
+      "PackagePath": "staticwebassets\\images\\success.png"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\Bulky\\ASP(MVC)_bulky\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ASP(MVC)_bulky.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ASP(MVC)_bulky.props",
+      "PackagePath": "build\\ASP(MVC)_bulky.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ASP(MVC)_bulky.props",
+      "PackagePath": "buildMultiTargeting\\ASP(MVC)_bulky.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ASP(MVC)_bulky.props",
+      "PackagePath": "buildTransitive\\ASP(MVC)_bulky.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

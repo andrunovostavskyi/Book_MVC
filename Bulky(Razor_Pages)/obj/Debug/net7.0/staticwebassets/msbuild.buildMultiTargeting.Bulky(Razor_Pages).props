@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Bulky(Razor_Pages).props" />
+</Project>

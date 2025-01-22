@@ -1,0 +1,19 @@
+﻿@model int
+
+<div class="container row pt-4">
+    <div class="col-12 text-center">
+        <h1 class="text-primary text-center">Order Placed Successfully!</h1>
+        Your Order Number is : @Model <br /><br />
+        <img src="~/images/success.png" width="30%" />
+        <div class="row">
+            <div class="col-md-4 offset-md-4">
+                <a asp-controller="Home" asp-action="Index" class="btn btn-primary border-0 bg-gradient w-100 py-2">Back to shopping</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-12 text-center" style="color:maroon">
+        <br />
+        Your order has been placed successfully! <br />
+    </div>
+
+</div> 

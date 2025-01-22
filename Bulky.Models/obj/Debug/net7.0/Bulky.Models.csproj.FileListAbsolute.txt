@@ -1,0 +1,12 @@
+D:\C#\.net\NeverGiveUp\Bulky\Bulky.Models\bin\Debug\net7.0\Bulky.Models.deps.json
+D:\C#\.net\NeverGiveUp\Bulky\Bulky.Models\bin\Debug\net7.0\Bulky.Models.dll
+D:\C#\.net\NeverGiveUp\Bulky\Bulky.Models\bin\Debug\net7.0\Bulky.Models.pdb
+D:\C#\.net\NeverGiveUp\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\.net\NeverGiveUp\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.AssemblyInfoInputs.cache
+D:\C#\.net\NeverGiveUp\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.AssemblyInfo.cs
+D:\C#\.net\NeverGiveUp\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.csproj.CoreCompileInputs.cache
+D:\C#\.net\NeverGiveUp\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.dll
+D:\C#\.net\NeverGiveUp\Bulky\Bulky.Models\obj\Debug\net7.0\refint\Bulky.Models.dll
+D:\C#\.net\NeverGiveUp\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.pdb
+D:\C#\.net\NeverGiveUp\Bulky\Bulky.Models\obj\Debug\net7.0\ref\Bulky.Models.dll
+D:\C#\.net\NeverGiveUp\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.csproj.AssemblyReference.cache

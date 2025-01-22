@@ -1,0 +1,52 @@
+﻿@model Company
+
+<form method="post">
+    <div class="border p-3 my-4">
+        <div class="row pb-2">
+            <h2 class="text-primary">Delete Company</h2>
+        </div>
+    </div>
+    <div asp-validation-summary="ModelOnly"></div>
+    <div class="mb-3 row p-1">
+        <label asp-for="Name" class="p-0"></label>
+        <input asp-for="Name" disabled class="form-control" />
+    </div>
+
+    <div class="mb-3 row p-1">
+        <label asp-for="State" class="p-0"></label>
+        <input asp-for="State" disabled class="form-control" />
+    </div>
+
+    <div class="mb-3 row p-1">
+        <label asp-for="City" class="p-0"></label>
+        <input asp-for="City" disabled class="form-control" />
+    </div>
+
+    <div class="mb-3 row p-1">
+        <label asp-for="StreetAddress" class="p-0"></label>
+        <input asp-for="StreetAddress" disabled class="form-control" />
+    </div>
+
+    <div class="mb-3 row p-1">
+        <label asp-for="PhoneNumber" class="p-0"></label>
+        <input asp-for="PhoneNumber" disabled class="form-control" />=
+    </div>
+
+
+    <div class="mb-3 row p-1">
+        <label asp-for="PostalCode" class="p-0"></label>
+        <input asp-for="PostalCode" disabled class="form-control" />
+    </div>
+
+    <div class="row">
+        <div class="col-6 col-md-3">
+            <button type="submit" class="btn btn-primary form-control">Delete </button>
+        </div>
+        <div class="col-6 col-md-3">
+            <a asp-controller="Company" asp-action="Index" class="btn btn-outline-secondary border form-control">
+                Back to List
+            </a>
+        </div>
+    </div>
+</form>
+

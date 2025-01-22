@@ -1,0 +1,1468 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\bulky.dataacess\\migrations\\20240823160419_updatefields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataacess\\migrations\\20240823160419_updatefields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\bulky.dataacess\\dbinitializer\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataacess\\dbinitializer\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\bulky.dataacess\\dbinitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataacess\\dbinitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\bulky.dataacess\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataacess\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\bulky.dataacess\\services\\iservices\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataacess\\services\\iservices\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\bulky.dataacess\\bulky.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataacess\\bulky.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\bulky.dataacess\\services\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataacess\\services\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3590D62E-9766-4BEF-AF78-D4F1E474DDF2}|Bulky.Models\\Bulky.Models.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\bulky.models\\viewmodels\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3590D62E-9766-4BEF-AF78-D4F1E474DDF2}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\viewmodels\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3590D62E-9766-4BEF-AF78-D4F1E474DDF2}|Bulky.Models\\Bulky.Models.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\bulky.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3590D62E-9766-4BEF-AF78-D4F1E474DDF2}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3590D62E-9766-4BEF-AF78-D4F1E474DDF2}|Bulky.Models\\Bulky.Models.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\bulky.models\\viewmodels\\shoppingcardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3590D62E-9766-4BEF-AF78-D4F1E474DDF2}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\viewmodels\\shoppingcardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3590D62E-9766-4BEF-AF78-D4F1E474DDF2}|Bulky.Models\\Bulky.Models.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\bulky.models\\viewmodels\\rolemanagervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3590D62E-9766-4BEF-AF78-D4F1E474DDF2}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\viewmodels\\rolemanagervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\wwwroot\\js\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\wwwroot\\js\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3590D62E-9766-4BEF-AF78-D4F1E474DDF2}|Bulky.Models\\Bulky.Models.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\bulky.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3590D62E-9766-4BEF-AF78-D4F1E474DDF2}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\admin\\views\\user\\rolemanagment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\admin\\views\\user\\rolemanagment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9AA65C-2EB2-47E2-A286-6C0897369A16}|Bulky.Utility\\Bulky.Utility.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\bulky.utility\\stripesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9AA65C-2EB2-47E2-A286-6C0897369A16}|Bulky.Utility\\Bulky.Utility.csproj|solutionrelative:bulky.utility\\stripesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\views\\shared\\components\\shoppingcart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\views\\shared\\components\\shoppingcart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\viewcomponents\\shoppingcartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\viewcomponents\\shoppingcartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9AA65C-2EB2-47E2-A286-6C0897369A16}|Bulky.Utility\\Bulky.Utility.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\bulky.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9AA65C-2EB2-47E2-A286-6C0897369A16}|Bulky.Utility\\Bulky.Utility.csproj|solutionrelative:bulky.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\bulky.dataacess\\services\\iservices\\iorderheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataacess\\services\\iservices\\iorderheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\customer\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\customer\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\bulky.dataacess\\services\\orderheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataacess\\services\\orderheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\customer\\views\\card\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\customer\\views\\card\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\customer\\views\\card\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\customer\\views\\card\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3590D62E-9766-4BEF-AF78-D4F1E474DDF2}|Bulky.Models\\Bulky.Models.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\bulky.models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3590D62E-9766-4BEF-AF78-D4F1E474DDF2}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\customer\\views\\card\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\customer\\views\\card\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3590D62E-9766-4BEF-AF78-D4F1E474DDF2}|Bulky.Models\\Bulky.Models.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\bulky.models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3590D62E-9766-4BEF-AF78-D4F1E474DDF2}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\identity\\pages\\account\\manage\\externallogins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\identity\\pages\\account\\manage\\externallogins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\bulky.dataacess\\services\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataacess\\services\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3590D62E-9766-4BEF-AF78-D4F1E474DDF2}|Bulky.Models\\Bulky.Models.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\bulky.models\\shoppingcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3590D62E-9766-4BEF-AF78-D4F1E474DDF2}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\shoppingcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\identity\\pages\\account\\manage\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\identity\\pages\\account\\manage\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\identity\\pages\\account\\manage\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\identity\\pages\\account\\manage\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\identity\\pages\\account\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\identity\\pages\\account\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\admin\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\admin\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\admin\\views\\order\\paymentconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\admin\\views\\order\\paymentconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\wwwroot\\js\\company.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\wwwroot\\js\\company.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3590D62E-9766-4BEF-AF78-D4F1E474DDF2}|Bulky.Models\\Bulky.Models.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\bulky.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3590D62E-9766-4BEF-AF78-D4F1E474DDF2}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\bulky.dataacess\\migrations\\20241010170112_justforcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataacess\\migrations\\20241010170112_justforcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\asp(mvc)_bulky.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\asp(mvc)_bulky.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3590D62E-9766-4BEF-AF78-D4F1E474DDF2}|Bulky.Models\\Bulky.Models.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\bulky.models\\bulky.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3590D62E-9766-4BEF-AF78-D4F1E474DDF2}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\bulky.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9AA65C-2EB2-47E2-A286-6C0897369A16}|Bulky.Utility\\Bulky.Utility.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\bulky.utility\\bulky.utility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C9AA65C-2EB2-47E2-A286-6C0897369A16}|Bulky.Utility\\Bulky.Utility.csproj|solutionrelative:bulky.utility\\bulky.utility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\bulky.dataacess\\services\\iservices\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataacess\\services\\iservices\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\bulky.dataacess\\services\\iservices\\iapplicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataacess\\services\\iservices\\iapplicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\bulky.dataacess\\services\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataacess\\services\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240823160419_UpdateFields.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Migrations\\20240823160419_UpdateFields.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAcess\\Migrations\\20240823160419_UpdateFields.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Migrations\\20240823160419_UpdateFields.cs",
+              "RelativeToolTip": "Bulky.DataAcess\\Migrations\\20240823160419_UpdateFields.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:56:22.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDBInitializer.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\DbInitializer\\IDBInitializer.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAcess\\DbInitializer\\IDBInitializer.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\DbInitializer\\IDBInitializer.cs",
+              "RelativeToolTip": "Bulky.DataAcess\\DbInitializer\\IDBInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:56:16.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBInitializer.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\DbInitializer\\DBInitializer.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAcess\\DbInitializer\\DBInitializer.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\DbInitializer\\DBInitializer.cs",
+              "RelativeToolTip": "Bulky.DataAcess\\DbInitializer\\DBInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:56:15.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ShoppingCardVM.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\ViewModels\\ShoppingCardVM.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\ViewModels\\ShoppingCardVM.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\ViewModels\\ShoppingCardVM.cs",
+              "RelativeToolTip": "Bulky.Models\\ViewModels\\ShoppingCardVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:02:10.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ASP(MVC)_bulky\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAMCAAAAAAAAAAAmwCACAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-17T16:10:13.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Program.cs",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Program.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Program.cs",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAWwBwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:01:13.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\appsettings.json",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\appsettings.json",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\appsettings.json",
+              "RelativeToolTip": "ASP(MVC)_bulky\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T16:32:20.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ASP(MVC)_bulky\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-09T15:59:55.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AplicationDbContext.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Data\\AplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAcess\\Data\\AplicationDbContext.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Data\\AplicationDbContext.cs",
+              "RelativeToolTip": "Bulky.DataAcess\\Data\\AplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:23:52.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:28:19.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\appsettings.Development.json",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\appsettings.Development.json",
+              "RelativeToolTip": "ASP(MVC)_bulky\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T09:54:47.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T13:02:34.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bulky.DataAccess.csproj",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Bulky.DataAccess.csproj",
+              "RelativeDocumentMoniker": "Bulky.DataAcess\\Bulky.DataAccess.csproj",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Bulky.DataAccess.csproj",
+              "RelativeToolTip": "Bulky.DataAcess\\Bulky.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T16:43:31.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderVM.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\ViewModels\\OrderVM.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\ViewModels\\OrderVM.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\ViewModels\\OrderVM.cs",
+              "RelativeToolTip": "Bulky.Models\\ViewModels\\OrderVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:02:17.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Services\\IServices\\IRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAcess\\Services\\IServices\\IRepository.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Services\\IServices\\IRepository.cs",
+              "RelativeToolTip": "Bulky.DataAcess\\Services\\IServices\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:17:39.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAswF4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T14:34:15.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Services\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAcess\\Services\\UnitOfWork.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Services\\UnitOfWork.cs",
+              "RelativeToolTip": "Bulky.DataAcess\\Services\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:17:17.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\ViewModels\\ProductVM.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\ViewModels\\ProductVM.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\ViewModels\\ProductVM.cs",
+              "RelativeToolTip": "Bulky.Models\\ViewModels\\ProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:45:59.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAG4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:14:13.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoleManagerVM.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\ViewModels\\RoleManagerVM.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\ViewModels\\RoleManagerVM.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\ViewModels\\RoleManagerVM.cs",
+              "RelativeToolTip": "Bulky.Models\\ViewModels\\RoleManagerVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:15:41.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "user.js",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\wwwroot\\js\\user.js",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\wwwroot\\js\\user.js",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\wwwroot\\js\\user.js",
+              "RelativeToolTip": "ASP(MVC)_bulky\\wwwroot\\js\\user.js",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwCMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-06T15:51:44.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Bulky.Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:34:04.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RoleManagment.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\User\\RoleManagment.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\User\\RoleManagment.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\User\\RoleManagment.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\User\\RoleManagment.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T13:02:17.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAwF4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T16:42:35.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T16:36:02.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T20:04:46.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StripeSettings.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Utility\\StripeSettings.cs",
+              "RelativeDocumentMoniker": "Bulky.Utility\\StripeSettings.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Utility\\StripeSettings.cs",
+              "RelativeToolTip": "Bulky.Utility\\StripeSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:30:43.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:39:07.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Views\\Shared\\Components\\ShoppingCart\\Default.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Views\\Shared\\Components\\ShoppingCart\\Default.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Views\\Shared\\Components\\ShoppingCart\\Default.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Views\\Shared\\Components\\ShoppingCart\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T17:21:19.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ShoppingCartViewComponent.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\ViewComponents\\ShoppingCartViewComponent.cs",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\ViewComponents\\ShoppingCartViewComponent.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\ViewComponents\\ShoppingCartViewComponent.cs",
+              "RelativeToolTip": "ASP(MVC)_bulky\\ViewComponents\\ShoppingCartViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:53:22.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:08:00.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SD.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Utility\\SD.cs",
+              "RelativeDocumentMoniker": "Bulky.Utility\\SD.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Utility\\SD.cs",
+              "RelativeToolTip": "Bulky.Utility\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:30:44.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IOrderHeaderRepository.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Services\\IServices\\IOrderHeaderRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAcess\\Services\\IServices\\IOrderHeaderRepository.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Services\\IServices\\IOrderHeaderRepository.cs",
+              "RelativeToolTip": "Bulky.DataAcess\\Services\\IServices\\IOrderHeaderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:22:25.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAAABoBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T20:04:45.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Controllers\\CardController.cs",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Customer\\Controllers\\CardController.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Controllers\\CardController.cs",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Customer\\Controllers\\CardController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAJ8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:46:58.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrderHeaderRepository.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Services\\OrderHeaderRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAcess\\Services\\OrderHeaderRepository.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Services\\OrderHeaderRepository.cs",
+              "RelativeToolTip": "Bulky.DataAcess\\Services\\OrderHeaderRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:22:31.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T16:14:12.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Views\\Card\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Customer\\Views\\Card\\Index.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Views\\Card\\Index.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Customer\\Views\\Card\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T16:15:45.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T16:36:16.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Summary.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Views\\Card\\Summary.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Customer\\Views\\Card\\Summary.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Views\\Card\\Summary.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Customer\\Views\\Card\\Summary.cshtml",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAwIcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T15:57:27.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "OrderHeader.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\OrderHeader.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\OrderHeader.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\OrderHeader.cs",
+              "RelativeToolTip": "Bulky.Models\\OrderHeader.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:02:34.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "OrderConfirmation.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Views\\Card\\OrderConfirmation.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Customer\\Views\\Card\\OrderConfirmation.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Views\\Card\\OrderConfirmation.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Customer\\Views\\Card\\OrderConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T17:16:01.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\OrderDetail.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\OrderDetail.cs",
+              "RelativeToolTip": "Bulky.Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:02:43.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:36:26.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ExternalLogins.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T14:36:52.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Services\\Repository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAcess\\Services\\Repository.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Services\\Repository.cs",
+              "RelativeToolTip": "Bulky.DataAcess\\Services\\Repository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwDQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:16:50.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T14:36:54.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T15:55:18.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ShoppingCard.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\ShoppingCard.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\ShoppingCard.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\ShoppingCard.cs",
+              "RelativeToolTip": "Bulky.Models\\ShoppingCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:09:28.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_ManageNav.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T17:35:22.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "_StatusMessage.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T17:35:39.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T17:35:43.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T17:34:47.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T15:46:47.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T16:24:30.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T15:46:06.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T15:46:25.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T17:11:14.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "_StatusMessage.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T17:12:26.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:49:20.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\CompanyController.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\CompanyController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:52:56.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAK0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:46:06.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAUwHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T17:46:05.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T16:14:16.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "product.js",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\wwwroot\\js\\product.js",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\wwwroot\\js\\product.js",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\wwwroot\\js\\product.js",
+              "RelativeToolTip": "ASP(MVC)_bulky\\wwwroot\\js\\product.js",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswCsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-16T19:26:54.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "PaymentConfirmation.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Order\\PaymentConfirmation.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Order\\PaymentConfirmation.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Order\\PaymentConfirmation.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Order\\PaymentConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T20:04:46.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "company.js",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\wwwroot\\js\\company.js",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\wwwroot\\js\\company.js",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\wwwroot\\js\\company.js",
+              "RelativeToolTip": "ASP(MVC)_bulky\\wwwroot\\js\\company.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-11T16:46:23.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T17:39:00.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\Product.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\Product.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\Product.cs",
+              "RelativeToolTip": "Bulky.Models\\Product.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:36:26.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20241010170112_JustForCheck.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Migrations\\20241010170112_JustForCheck.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAcess\\Migrations\\20241010170112_JustForCheck.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Migrations\\20241010170112_JustForCheck.cs",
+              "RelativeToolTip": "Bulky.DataAcess\\Migrations\\20241010170112_JustForCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:01:12.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T17:39:34.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T15:54:46.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T15:54:47.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T16:25:37.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T16:25:36.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ASP(MVC)_bulky.csproj",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj",
+              "RelativeToolTip": "ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T17:17:41.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Bulky.Models.csproj",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\Bulky.Models.csproj",
+              "RelativeDocumentMoniker": "Bulky.Models\\Bulky.Models.csproj",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\Bulky.Models.csproj",
+              "RelativeToolTip": "Bulky.Models\\Bulky.Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T17:17:56.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Bulky.Utility.csproj",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Utility\\Bulky.Utility.csproj",
+              "RelativeDocumentMoniker": "Bulky.Utility\\Bulky.Utility.csproj",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Utility\\Bulky.Utility.csproj",
+              "RelativeToolTip": "Bulky.Utility\\Bulky.Utility.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T17:17:59.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T16:03:30.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T16:41:19.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T17:39:49.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Views\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Views\\Shared\\_Notification.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Views\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Views\\Shared\\_Notification.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T16:03:47.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T16:17:03.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T16:17:00.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T16:16:57.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ASP(MVC)_bulky\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T16:03:45.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Services\\IServices\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAcess\\Services\\IServices\\IUnitOfWork.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Services\\IServices\\IUnitOfWork.cs",
+              "RelativeToolTip": "Bulky.DataAcess\\Services\\IServices\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:16:55.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "IApplicationUserRepository.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Services\\IServices\\IApplicationUserRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAcess\\Services\\IServices\\IApplicationUserRepository.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Services\\IServices\\IApplicationUserRepository.cs",
+              "RelativeToolTip": "Bulky.DataAcess\\Services\\IServices\\IApplicationUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:15:46.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ApplicationUserRepository.cs",
+              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Services\\ApplicationUserRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAcess\\Services\\ApplicationUserRepository.cs",
+              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Services\\ApplicationUserRepository.cs",
+              "RelativeToolTip": "Bulky.DataAcess\\Services\\ApplicationUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:15:41.172Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 874,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

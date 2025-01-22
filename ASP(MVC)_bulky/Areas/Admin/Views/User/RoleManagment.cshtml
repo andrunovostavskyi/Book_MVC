@@ -1,0 +1,59 @@
+﻿@model RoleManagerVM
+
+<div class="card shadow border-0 mt-4">
+    <div class="card-header bg-secondary bg-gradient ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2">Manage User Role</h2>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-4">
+        <form method="post" class="row">
+            <input asp-for="ApplicationUser.Id" hidden />
+            <div class="border p-3">
+                <div class="form-floating py-2 col-12">
+                    <input asp-for="ApplicationUser.Name" readonly class="form-control border-0 shadow" />
+                    <label asp-for="ApplicationUser.Name" class="ms-2"></label>
+                </div>
+
+                <div class="form-floating py-2 col-12">
+                    <select asp-for="ApplicationUser.Role" asp-items="@Model.RoleList" class="form-select" id="roleSelect"></select>
+                    <label asp-for="ApplicationUser.Role">Role</label>
+                </div>
+
+                <div class="form-floating py-2 col-12" id="companySelectContainer" style="@((Model.ApplicationUser.Role == SD.Role_Company) ? "" : "display:none;")">
+                    <select asp-for="ApplicationUser.CompanyID" asp-items="@Model.CompanyList" class="form-select" id="companySelect"></select>
+                    <label asp-for="ApplicationUser.CompanyID">Company</label>
+                </div>
+
+                <div class="row pt-2">
+                    <div class="col-6 col-md-3">
+                        <button type="submit" class="btn btn-primary form-control">Update Role</button>
+                    </div>
+                    <div class="col-6 col-md-3">
+                        <a asp-action="Index" class="btn btn-outline-primary border form-control">
+                            Back to List
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @* Скріпт для динамічного відображення компаній *@
+    <script>
+        $(document).ready(function () {
+            $('#roleSelect').change(function () {
+                var selectedRole = $('#roleSelect').val();
+                if (selectedRole === '@SD.Role_Company') {
+                    $('#companySelectContainer').show();
+                } else {
+                    $('#companySelectContainer').hide();
+                }
+            });
+        });
+    </script>
+}

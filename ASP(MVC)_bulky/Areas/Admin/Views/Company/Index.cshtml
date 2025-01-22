@@ -1,0 +1,55 @@
+﻿@model List<Company>
+
+
+<div class="container">
+    <div class="row pt-4 pb-3">
+        <div class="col-6">
+            <h2 class="text-primary">
+                Company List
+            </h2>
+        </div>
+        <div class="col-6 text-end">
+            <a asp-controller="Company" asp-action="Upsert" class="btn btn-primary">
+                <i class="bi bi-plus-circle"></i> Create New Category
+            </a>
+        </div>
+    </div>
+    <table id="tblData" class="table table-bordered table-striped" width="100%">
+    <thead>
+    <tr>
+        <th>
+            Company Name
+        </th>
+
+        <th>
+            Company Phone
+        </th>
+
+        <th>
+            Company adress
+        </th>
+        
+        <th>
+            Company City
+        </th>
+        
+        <th>
+            Company State
+        </th>
+
+        <th>
+            Company Post Code
+        </th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+            <!-- Дані будуть завантажені тут DataTable -->
+    </tbody>
+</table>
+</div>
+
+
+@section Scripts {
+    <script src="~/js/company.js"></script>
+}

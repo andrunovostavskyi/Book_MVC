@@ -1,0 +1,15 @@
+D:\C#\.net\NeverGiveUp\Bulky\Bulky.DataAcess\bin\Release\net7.0\Bulky.DataAccess.deps.json
+D:\C#\.net\NeverGiveUp\Bulky\Bulky.DataAcess\bin\Release\net7.0\Bulky.DataAccess.dll
+D:\C#\.net\NeverGiveUp\Bulky\Bulky.DataAcess\bin\Release\net7.0\Bulky.DataAccess.pdb
+D:\C#\.net\NeverGiveUp\Bulky\Bulky.DataAcess\bin\Release\net7.0\Bulky.Models.dll
+D:\C#\.net\NeverGiveUp\Bulky\Bulky.DataAcess\bin\Release\net7.0\Bulky.Models.pdb
+D:\C#\.net\NeverGiveUp\Bulky\Bulky.DataAcess\obj\Release\net7.0\Bulky.DataAccess.csproj.AssemblyReference.cache
+D:\C#\.net\NeverGiveUp\Bulky\Bulky.DataAcess\obj\Release\net7.0\Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\.net\NeverGiveUp\Bulky\Bulky.DataAcess\obj\Release\net7.0\Bulky.DataAccess.AssemblyInfoInputs.cache
+D:\C#\.net\NeverGiveUp\Bulky\Bulky.DataAcess\obj\Release\net7.0\Bulky.DataAccess.AssemblyInfo.cs
+D:\C#\.net\NeverGiveUp\Bulky\Bulky.DataAcess\obj\Release\net7.0\Bulky.DataAccess.csproj.CoreCompileInputs.cache
+D:\C#\.net\NeverGiveUp\Bulky\Bulky.DataAcess\obj\Release\net7.0\Bulky.DataAccess.csproj.CopyComplete
+D:\C#\.net\NeverGiveUp\Bulky\Bulky.DataAcess\obj\Release\net7.0\Bulky.DataAccess.dll
+D:\C#\.net\NeverGiveUp\Bulky\Bulky.DataAcess\obj\Release\net7.0\refint\Bulky.DataAccess.dll
+D:\C#\.net\NeverGiveUp\Bulky\Bulky.DataAcess\obj\Release\net7.0\Bulky.DataAccess.pdb
+D:\C#\.net\NeverGiveUp\Bulky\Bulky.DataAcess\obj\Release\net7.0\ref\Bulky.DataAccess.dll
