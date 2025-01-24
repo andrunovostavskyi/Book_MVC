@@ -18,10 +18,13 @@ This is a full-stack web application built using **ASP.NET Core MVC (.NET 8)**. 
 ## Screenshots
 
 ### User View
-![User Home Page](screenshots/user_home.png)
+![User Home Page](Screenshots/User_HomePage.png)
 
 ### Admin View
-![Admin Dashboard](screenshots/admin_dashboard.png)
+![Admin Dashboard](Screenshots/Admin_GrudOperation.png)
+
+### Company View
+![Admin Dashboard](Screenshots/Company_Card.png)
 
 
 ```
