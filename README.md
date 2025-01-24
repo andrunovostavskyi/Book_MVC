@@ -2,6 +2,7 @@
 
 This is a full-stack web application built using **ASP.NET Core MVC (.NET 8)**. The project was created based on a Udemy course to understand the fundamental and advanced concepts of ASP.NET Core, including Razor Pages, Identity Framework, Entity Framework, and more.
 
+```
 ## Features
 
 - ASP.NET Core MVC (.NET 8) and Razor Pages
@@ -13,6 +14,7 @@ This is a full-stack web application built using **ASP.NET Core MVC (.NET 8)**. 
 - Database seeding with automatic migrations
 - Repository Pattern for data access
   
+```
 ## Screenshots
 
 ### User View
@@ -22,6 +24,7 @@ This is a full-stack web application built using **ASP.NET Core MVC (.NET 8)**. 
 ![Admin Dashboard](screenshots/admin_dashboard.png)
 
 
+```
 ## Prerequisites
 
 To run this project locally, you need to have the following installed:
@@ -31,6 +34,7 @@ To run this project locally, you need to have the following installed:
 
 Additionally, you'll need to configure the `appsettings.json` file before running the application.
 
+```
 ### Example `appsettings.json`
 ```json
 {
@@ -56,6 +60,7 @@ Place the `appsettings.json` file in the `src/Restaurants.API/bin/Debug/net8.0` 
 5. Access the app in your browser at `http://localhost:5000`.
 
 
+```
 ## Technologies Used
 
 - ASP.NET Core MVC (.NET 8)
@@ -64,15 +69,18 @@ Place the `appsettings.json` file in the `src/Restaurants.API/bin/Debug/net8.0` 
 - Entity Framework Core for ORM
 - Stripe API for payment processing
 
+```
 
 ## Acknowledgements
 
 This project is based on the concepts learned in the Udemy course. Special thanks to the instructor for providing a comprehensive understanding of ASP.NET Core.
 
+```
 ## License
 
 This project is open-source and available under the MIT License. Feel free to use and modify it for your own purposes.
 
+```
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out:
