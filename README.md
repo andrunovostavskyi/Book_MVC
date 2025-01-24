@@ -42,9 +42,11 @@ Additionally, you'll need to configure the `appsettings.json` file before runnin
     "PublishableKey": "your_stripe_publishable_key"
   }
 }
-Place the `appsettings.json` file in the `src/Restaurants.API/bin/Debug/net8.0` directory or 'src/Restaurants.API/bin/Debug/net8.0' or wherever your build outputs are located.
+```
 
+Place the `appsettings.json` file in the `src/Restaurants.API/bin/Debug/net8.0` directory or wherever your build outputs are located.
 
+---
 ## How to Run Locally
 
 1. Clone this repository
