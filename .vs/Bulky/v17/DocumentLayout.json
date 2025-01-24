@@ -19,16 +19,8 @@
       "RelativeMoniker": "D:0:0:{A7EB2FED-EB23-47F8-B79A-59EEFC783EC1}|Bulky.DataAcess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataacess\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|solutionrelative:asp(mvc)_bulky\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42B5041E-E2C8-4295-8EDE-CC833908910B}|ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj|d:\\c#\\.net\\nevergiveup\\book_mvc\\asp(mvc)_bulky\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -384,7 +376,7 @@
               "RelativeDocumentMoniker": "Bulky.DataAcess\\Migrations\\20240823160419_UpdateFields.cs",
               "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Migrations\\20240823160419_UpdateFields.cs",
               "RelativeToolTip": "Bulky.DataAcess\\Migrations\\20240823160419_UpdateFields.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T09:56:22.409Z",
               "EditorCaption": ""
@@ -399,8 +391,7 @@
               "RelativeToolTip": "Bulky.DataAcess\\DbInitializer\\IDBInitializer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T09:56:16.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T09:56:16.138Z"
             },
             {
               "$type": "Document",
@@ -412,12 +403,11 @@
               "RelativeToolTip": "Bulky.DataAcess\\DbInitializer\\DBInitializer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T09:56:15.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T09:56:15.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "ShoppingCardVM.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\ViewModels\\ShoppingCardVM.cs",
               "RelativeDocumentMoniker": "Bulky.Models\\ViewModels\\ShoppingCardVM.cs",
@@ -429,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
               "Title": "site.css",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\wwwroot\\css\\site.css",
@@ -441,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Program.cs",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Program.cs",
@@ -454,19 +444,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\appsettings.json",
-              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\appsettings.json",
-              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\appsettings.json",
-              "RelativeToolTip": "ASP(MVC)_bulky\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-08T16:32:20.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\ScaffoldingReadMe.txt",
@@ -474,8 +451,7 @@
               "RelativeToolTip": "ASP(MVC)_bulky\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-09T15:59:55.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T15:59:55.19Z"
             },
             {
               "$type": "Document",
@@ -487,12 +463,11 @@
               "RelativeToolTip": "Bulky.DataAcess\\Data\\AplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T16:23:52.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T16:23:52.875Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\ProductController.cs",
@@ -504,19 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "ASP(MVC)_bulky\\appsettings.Development.json",
-              "ToolTip": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\appsettings.Development.json",
-              "RelativeToolTip": "ASP(MVC)_bulky\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-22T09:54:47.917Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\User\\Index.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\User\\Index.cshtml",
@@ -528,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "Bulky.DataAccess.csproj",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Bulky.DataAccess.csproj",
               "RelativeDocumentMoniker": "Bulky.DataAcess\\Bulky.DataAccess.csproj",
@@ -540,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "OrderVM.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\ViewModels\\OrderVM.cs",
               "RelativeDocumentMoniker": "Bulky.Models\\ViewModels\\OrderVM.cs",
@@ -552,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "IRepository.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Services\\IServices\\IRepository.cs",
               "RelativeDocumentMoniker": "Bulky.DataAcess\\Services\\IServices\\IRepository.cs",
@@ -564,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "Upsert.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
@@ -576,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Services\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "Bulky.DataAcess\\Services\\UnitOfWork.cs",
@@ -588,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "ProductVM.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\ViewModels\\ProductVM.cs",
               "RelativeDocumentMoniker": "Bulky.Models\\ViewModels\\ProductVM.cs",
@@ -600,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\UserController.cs",
@@ -612,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "RoleManagerVM.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\ViewModels\\RoleManagerVM.cs",
               "RelativeDocumentMoniker": "Bulky.Models\\ViewModels\\RoleManagerVM.cs",
@@ -624,7 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 18,
               "Title": "user.js",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\wwwroot\\js\\user.js",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\wwwroot\\js\\user.js",
@@ -636,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 19,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Bulky.Models\\ApplicationUser.cs",
@@ -648,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 20,
               "Title": "RoleManagment.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\User\\RoleManagment.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\User\\RoleManagment.cshtml",
@@ -660,7 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 21,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Views\\Shared\\_Layout.cshtml",
@@ -672,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 22,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Customer\\Views\\Home\\Details.cshtml",
@@ -684,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 23,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Order\\Index.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Order\\Index.cshtml",
@@ -696,7 +659,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 24,
               "Title": "StripeSettings.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Utility\\StripeSettings.cs",
               "RelativeDocumentMoniker": "Bulky.Utility\\StripeSettings.cs",
@@ -708,7 +671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 25,
               "Title": "OrderController.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\OrderController.cs",
@@ -720,7 +683,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 26,
               "Title": "Default.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Views\\Shared\\Components\\ShoppingCart\\Default.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Views\\Shared\\Components\\ShoppingCart\\Default.cshtml",
@@ -732,7 +695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 27,
               "Title": "ShoppingCartViewComponent.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\ViewComponents\\ShoppingCartViewComponent.cs",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\ViewComponents\\ShoppingCartViewComponent.cs",
@@ -744,7 +707,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 28,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Customer\\Controllers\\HomeController.cs",
@@ -756,7 +719,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 29,
               "Title": "SD.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Utility\\SD.cs",
               "RelativeDocumentMoniker": "Bulky.Utility\\SD.cs",
@@ -768,7 +731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 30,
               "Title": "IOrderHeaderRepository.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Services\\IServices\\IOrderHeaderRepository.cs",
               "RelativeDocumentMoniker": "Bulky.DataAcess\\Services\\IServices\\IOrderHeaderRepository.cs",
@@ -780,7 +743,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 31,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Order\\Details.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Order\\Details.cshtml",
@@ -792,7 +755,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 32,
               "Title": "CardController.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Controllers\\CardController.cs",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Customer\\Controllers\\CardController.cs",
@@ -804,7 +767,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 33,
               "Title": "OrderHeaderRepository.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Services\\OrderHeaderRepository.cs",
               "RelativeDocumentMoniker": "Bulky.DataAcess\\Services\\OrderHeaderRepository.cs",
@@ -816,7 +779,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 34,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
@@ -828,7 +791,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 35,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Views\\Card\\Index.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Customer\\Views\\Card\\Index.cshtml",
@@ -840,7 +803,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 36,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Customer\\Views\\Home\\Index.cshtml",
@@ -852,7 +815,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 37,
               "Title": "Summary.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Views\\Card\\Summary.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Customer\\Views\\Card\\Summary.cshtml",
@@ -864,7 +827,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 38,
               "Title": "OrderHeader.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\OrderHeader.cs",
               "RelativeDocumentMoniker": "Bulky.Models\\OrderHeader.cs",
@@ -876,7 +839,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 39,
               "Title": "OrderConfirmation.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Views\\Card\\OrderConfirmation.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Customer\\Views\\Card\\OrderConfirmation.cshtml",
@@ -888,7 +851,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 40,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\OrderDetail.cs",
               "RelativeDocumentMoniker": "Bulky.Models\\OrderDetail.cs",
@@ -900,7 +863,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 41,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
@@ -912,7 +875,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 42,
               "Title": "ExternalLogins.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
@@ -924,7 +887,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 43,
               "Title": "Repository.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Services\\Repository.cs",
               "RelativeDocumentMoniker": "Bulky.DataAcess\\Services\\Repository.cs",
@@ -936,7 +899,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 44,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
@@ -948,7 +911,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 45,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
@@ -960,7 +923,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 46,
               "Title": "ShoppingCard.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\ShoppingCard.cs",
               "RelativeDocumentMoniker": "Bulky.Models\\ShoppingCard.cs",
@@ -972,7 +935,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 47,
               "Title": "_ManageNav.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
@@ -984,7 +947,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 48,
               "Title": "_StatusMessage.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
@@ -996,7 +959,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 49,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
@@ -1008,7 +971,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 50,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
@@ -1020,7 +983,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 51,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
@@ -1032,7 +995,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 52,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
@@ -1044,7 +1007,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 53,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
@@ -1056,7 +1019,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 54,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
@@ -1068,7 +1031,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 55,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
@@ -1080,7 +1043,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 56,
               "Title": "_StatusMessage.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
@@ -1092,7 +1055,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 57,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\CategoryController.cs",
@@ -1104,7 +1067,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 58,
               "Title": "CompanyController.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\CompanyController.cs",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Controllers\\CompanyController.cs",
@@ -1116,7 +1079,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 59,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -1128,7 +1091,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 60,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
@@ -1140,7 +1103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 61,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Product\\Index.cshtml",
@@ -1152,7 +1115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 62,
               "Title": "product.js",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\wwwroot\\js\\product.js",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\wwwroot\\js\\product.js",
@@ -1164,7 +1127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 63,
               "Title": "PaymentConfirmation.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Order\\PaymentConfirmation.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Order\\PaymentConfirmation.cshtml",
@@ -1176,7 +1139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 64,
               "Title": "company.js",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\wwwroot\\js\\company.js",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\wwwroot\\js\\company.js",
@@ -1188,7 +1151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 65,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Category\\Create.cshtml",
@@ -1200,7 +1163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 66,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\Product.cs",
               "RelativeDocumentMoniker": "Bulky.Models\\Product.cs",
@@ -1212,7 +1175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 67,
               "Title": "20241010170112_JustForCheck.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Migrations\\20241010170112_JustForCheck.cs",
               "RelativeDocumentMoniker": "Bulky.DataAcess\\Migrations\\20241010170112_JustForCheck.cs",
@@ -1224,7 +1187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 68,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
@@ -1236,7 +1199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 69,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Customer\\Views\\_ViewImports.cshtml",
@@ -1248,7 +1211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 70,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Customer\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Customer\\Views\\_ViewStart.cshtml",
@@ -1260,7 +1223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 71,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -1272,7 +1235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 72,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -1284,7 +1247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 73,
               "Title": "ASP(MVC)_bulky.csproj",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\ASP(MVC)_bulky.csproj",
@@ -1296,7 +1259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 74,
               "Title": "Bulky.Models.csproj",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Models\\Bulky.Models.csproj",
               "RelativeDocumentMoniker": "Bulky.Models\\Bulky.Models.csproj",
@@ -1308,7 +1271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 75,
               "Title": "Bulky.Utility.csproj",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.Utility\\Bulky.Utility.csproj",
               "RelativeDocumentMoniker": "Bulky.Utility\\Bulky.Utility.csproj",
@@ -1320,7 +1283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 76,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -1332,7 +1295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 77,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Category\\Index.cshtml",
@@ -1344,7 +1307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 78,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
@@ -1356,7 +1319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 79,
               "Title": "_Notification.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Views\\Shared\\_Notification.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Views\\Shared\\_Notification.cshtml",
@@ -1368,7 +1331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 80,
               "Title": "Error.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Views\\Shared\\Error.cshtml",
@@ -1380,7 +1343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 81,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Views\\_ViewStart.cshtml",
@@ -1392,7 +1355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 82,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Views\\_ViewImports.cshtml",
@@ -1404,7 +1367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 83,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\ASP(MVC)_bulky\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "ASP(MVC)_bulky\\Views\\Shared\\_LoginPartial.cshtml",
@@ -1416,7 +1379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 84,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Services\\IServices\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "Bulky.DataAcess\\Services\\IServices\\IUnitOfWork.cs",
@@ -1428,7 +1391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 85,
               "Title": "IApplicationUserRepository.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Services\\IServices\\IApplicationUserRepository.cs",
               "RelativeDocumentMoniker": "Bulky.DataAcess\\Services\\IServices\\IApplicationUserRepository.cs",
@@ -1440,7 +1403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 86,
               "Title": "ApplicationUserRepository.cs",
               "DocumentMoniker": "D:\\C#\\.net\\NeverGiveUp\\Book_MVC\\Bulky.DataAcess\\Services\\ApplicationUserRepository.cs",
               "RelativeDocumentMoniker": "Bulky.DataAcess\\Services\\ApplicationUserRepository.cs",
