@@ -10,10 +10,8 @@ This is a full-stack web application built using **ASP.NET Core MVC (.NET 8)**. 
 - **Entity Framework Core** with PostgreSQL (code-first approach)
 - Custom Tag Helpers, Partial Views, and View Components
 - **Session Management** and `TempData` for better user experience
-- Email Notifications
 - Database seeding with automatic migrations
 - **Repository Pattern** for data access
-- Deployed to **Microsoft Azure** for production readiness
 
 ---
 
@@ -59,28 +57,17 @@ Place the `appsettings.json` file in the `src/Restaurants.API/bin/Debug/net8.0` 
 
 ## How to Run Locally
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/bulkybook.git
-   cd bulkybook
-   ```
+1. Clone this repository
 
-2. Install dependencies:
-   ```bash
-   dotnet restore
-   ```
+2. Install dependencies
 
-3. Apply migrations and seed the database:
-   ```bash
-   dotnet ef database update
-   ```
+3. Add appsettings.json file to project
 
-4. Run the application:
-   ```bash
-   dotnet run
-   ```
+4. Apply migrations and seed the database
 
-5. Access the app in your browser at `http://localhost:5000`.
+5. Run the application
+
+6. Access the app in your browser at `http://localhost:5000`.
 
 ---
 
@@ -91,7 +78,6 @@ Place the `appsettings.json` file in the `src/Restaurants.API/bin/Debug/net8.0` 
 - **Bootstrap v5** for responsive UI
 - **Entity Framework Core** for ORM
 - **Stripe API** for payment processing
-- **Microsoft Azure** for deployment
 
 ---
 
@@ -111,5 +97,6 @@ This project is open-source and available under the MIT License. Feel free to us
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **Email**: your.email@example.com
+- **GitHub**: [andrunovostavskyi](https://github.com/andrunovostavskyi)
+- **Email**: novostavskuy@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/andriy-novostavskyi-073879325/
