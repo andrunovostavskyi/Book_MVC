@@ -32,6 +32,7 @@ To run this project locally, you need to have the following installed:
 Additionally, you'll need to configure the `appsettings.json` file before running the application.
 
 ### Example `appsettings.json`
+```json
 {
   "ConnectionStrings": {
     "DefaultConnection": "Host=your_host;Database=your_database;Username=your_username;Password=your_password"
