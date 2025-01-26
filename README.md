@@ -89,7 +89,7 @@ This project is based on the concepts learned in the Udemy course. Special thank
 
 ## License
 
-This project is open-source and available under the MIT License. Feel free to use and modify it for your own purposes.
+This project is open-source. Feel free to use and modify it for your own purposes.
 
 ---
 
