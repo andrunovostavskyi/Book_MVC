@@ -4,14 +4,14 @@ This is a full-stack web application built using **ASP.NET Core MVC (.NET 8)**. 
 
 ## Features
 
-- **ASP.NET Core MVC (.NET 8)** and Razor Pages
-- **Authentication & Authorization**: Role-based access with Identity Framework
-- **Stripe Payment Integration** for seamless transactions
-- **Entity Framework Core** with PostgreSQL (code-first approach)
+- ASP.NET Core MVC (.NET 8) and Razor Pages
+- Authentication & Authorization: Role-based access with Identity Framework
+- Stripe Payment Integration for seamless transactions
+- Entity Framework Core with PostgreSQL (code-first approach)
 - Custom Tag Helpers, Partial Views, and View Components
-- **Session Management** and `TempData` for better user experience
+- Session Management and `TempData` for better user experience
 - Database seeding with automatic migrations
-- **Repository Pattern** for data access
+- Repository Pattern for data access
 
 ---
 
@@ -98,5 +98,5 @@ This project is open-source and available under the MIT License. Feel free to us
 If you have any questions or suggestions, feel free to reach out:
 
 - **GitHub**: [andrunovostavskyi](https://github.com/andrunovostavskyi)
-- **Email**: novostavskuy@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/andriy-novostavskyi-073879325/
+- **Email**: novostavskuy@gmail.com
